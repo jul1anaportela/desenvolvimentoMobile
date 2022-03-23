@@ -1,0 +1,12 @@
+{
+  "nome": "\"Edilson\",",
+  "sobrenome": "\"Lima\",",
+  "idade": "40,",
+  "casado": "true,",
+  "altura": 1.76,
+  "cursos": [
+    "\"dart\",",
+    "\"flutter\",",
+    "\"programação para dispositivos móveis\""
+  ]
+}
